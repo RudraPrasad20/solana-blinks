@@ -44,7 +44,7 @@ import {
     // This JSON is used to render the Blink UI
     const response: ActionGetResponse = {
       type: "action",
-      icon: `${new URL("/next.svg", req.url).toString()}`,
+      icon: `${new URL("/gift.png", req.url).toString()}`,
       label: "1 SOL",
       title: "Donate SOL",
       description:
