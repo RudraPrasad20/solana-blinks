@@ -1,4 +1,6 @@
-## expoloring solana blinks
+# Solana Blinks
+
+<img width="490" height="502" alt="Screenshot 2025-09-05 at 7 47 47 PM" src="https://github.com/user-attachments/assets/b87113fd-9ec0-4ac7-98fa-7639d966d952" />
 
 # GET
 
