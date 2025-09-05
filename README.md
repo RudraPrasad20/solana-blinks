@@ -5,17 +5,24 @@
 # GET
 
 send get request to:
-http://localhost:3000/api/actions/memo
+```
+/api/actions/donate-sol
+```
+returns:
+- metadata
+
 
 # POST
 
 send post request to :
-http://localhost:3000/api/actions/memo
+```
+/api/actions/donate-sol
+```
 with raw body:
+```
 {
 "account": "YOUR PUB KEY"
 }
-
-- you will get an transaction in return
-- GET request returns metadata
-- POST request returns a signable transaction
+```
+ returns:
+-  a Transaction
